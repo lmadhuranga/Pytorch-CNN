@@ -1,6 +1,6 @@
-# Pytorch-CNN-NN-DNN-Tutorial
+# Convolutional Neural Network - Pytorch 
 
-[Video tutorial - Youtube](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+ - [PyTorch Prerequisites - Syllabus for Neural Network Programming Course ](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 
 1. Image classier - pytorch - Mnist fashion data set - (without pretrain model)
   - [Git link](https://deeplizard.com/learn/video/v5cngxo4mIg)
