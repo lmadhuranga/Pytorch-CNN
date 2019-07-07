@@ -1,5 +1,7 @@
 # Pytorch-CNN-NN-DNN-Tutorial
 
+[Video tutorial - Youtube](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+
 1. Image classier - pytorch - Mnist fashion data set - (without pretrain model)
   - [Git link](https://deeplizard.com/learn/video/v5cngxo4mIg)
   - [Colab link](https://colab.research.google.com/github/lmadhuranga/Pytorch-CNN-NN-DNN-Tutorial/blob/master/1.CNN%20Training%20with%20Fashion%20Data%20set%20-%20Pytorch%20A%20-%20Z.ipynb)
