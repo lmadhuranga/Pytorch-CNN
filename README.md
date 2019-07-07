@@ -8,6 +8,6 @@
   - [Colab link](https://colab.research.google.com/github/lmadhuranga/Pytorch-CNN-NN-DNN-Tutorial/blob/master/2_cnn_pytroch_Dog_Cat_Classifier.ipynb)
   - [Git link](https://github.com/lmadhuranga/Pytorch-CNN-NN-DNN-Tutorial/blob/master/2_cnn_pytroch_Dog_Cat_Classifier.ipynb)
 
-3. Faciel classificaiton code - pytorch
+3. Facial classificaiton code - pytorch
   - [Colab link](https://colab.research.google.com/github/lmadhuranga/Pytorch-CNN-NN-DNN-Tutorial/blob/master/Binary_face_classifier.ipynb)
   - [Colab link](https://colab.research.google.com/github/lmadhuranga/Pytorch-CNN-NN-DNN-Tutorial/blob/master/Binary_face_classifier.ipynb)
